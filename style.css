@@ -1,0 +1,20 @@
+tr{
+  border: solid yellow;
+  font-size: 45px;
+  color: #000000;
+  padding: 20px;
+  background-color: green;
+
+}
+h2{
+  text-align: center;
+  color: green;
+  border-spacing: 4px solid green;
+}
+h1{
+  text-align: center;
+}
+table{
+  border: 6px solid #5555;
+
+}
